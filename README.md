@@ -251,13 +251,13 @@ The project demonstrates how BI reporting can support commercial performance mon
 
 ### Customer Insights
 
-![Customer Insights](visuals/customer-insights.png)
+![Customer Insights](visuals/customer-analysis.png)
 
 **Business takeaway:** Highlights customer value through metrics such as unique customers and revenue per customer, while also showing customer composition by income level and occupation to support customer-focused decision-making.
 
 ### Product Scenario Analysis
 
-![Product Scenario Analysis](visuals/product-scenario-analysis.png)
+![Product Scenario Analysis](visuals/product-analysis.png)
 
 **Business takeaway:** Uses DAX-based what-if analysis to simulate how price adjustments affect product-level revenue, profit, and order performance, supporting commercial scenario planning and pricing decisions.
 
