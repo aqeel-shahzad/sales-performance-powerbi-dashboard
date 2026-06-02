@@ -37,7 +37,7 @@ This page helps managers answer:
 
 ### 2. Customer Insights
 
-![Customer Insights](../visuals/customer-insights.png)
+![Customer Insights](../visuals/customer-analysis.png)
 
 This page focuses on customer value and customer behaviour.
 
@@ -57,7 +57,7 @@ This page helps managers answer:
 
 ### 3. Product Scenario Analysis
 
-![Product Scenario Analysis](../visuals/product-scenario-analysis.png)
+![Product Scenario Analysis](../visuals/product-analysis.png)
 
 This page focuses on product-level performance and pricing decisions.
 
