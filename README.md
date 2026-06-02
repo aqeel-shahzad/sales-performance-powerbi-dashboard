@@ -238,7 +238,7 @@ Example README format:
 
 The Power BI file is available in the `dashboard/` folder:
 
-[View Power BI Dashboard File](dashboard/AdventureWorks-Report.pbix)
+[View Power BI Dashboard File](dashboard/AdventureWorks Report.pbix)
 
 Note: GitHub may not preview `.pbix` files directly. Download the file and open it in Microsoft Power BI Desktop to interact with the dashboard.
 
